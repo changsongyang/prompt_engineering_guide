@@ -18,7 +18,10 @@
 ## 本章内容
 
 - [11.1 提示词注入与防护策略](11.1_prompt_injection.md)
+  - [11.1.1 提示词注入防护的实战操作指南](11.1_1_practical_defense_guide.md)
 - [11.2 幻觉问题与事实性保障](11.2_hallucination.md)
 - [11.3 偏见识别与公平性考量](11.3_bias_fairness.md)
 - [11.4 企业级安全架构设计](11.4_enterprise_security.md)
+- [11.5 提示词注入防御完整攻防树：分类、防守与架构](11.5_injection_defense_comprehensive_tree.md)
+- [11.6 本章实战练习](11.6_practice.md)
 - [本章小结](summary.md)

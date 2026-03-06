@@ -25,4 +25,5 @@
 - [5.2 示例的选择与设计策略](5.2_example_design.md)
 - [5.3 少样本学习的应用场景](5.3_applications.md)
 - [5.4 常见问题与解决方案](5.4_troubleshooting.md)
+- [5.5 本章实战练习](5.5_practice.md)
 - [本章小结](summary.md)

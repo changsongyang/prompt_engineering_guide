@@ -1,4 +1,4 @@
-# 第三章：提示词的基本结构
+## 第三章：提示词的基本结构
 
 ## 本章小结
 
@@ -103,7 +103,7 @@
 #### 3.3 上下文
 
 - [Provide Reference Text](https://platform.openai.com/docs/guides/prompt-engineering#tactic-provide-reference-text) - OpenAI 提供参考文本技巧
-- [Use XML Tags](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags) - Anthropic XML标签使用指南
+- [Use XML Tags](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags) - Anthropic XML 标签使用指南
 - [Long Context Best Practices](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips) - Claude 长上下文技巧
 
 #### 3.4 输出格式

@@ -1,4 +1,4 @@
-# 第十三章：平台特定策略
+## 第十三章：平台特定策略
 
 ## 本章小结
 
@@ -44,7 +44,7 @@
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - OpenAI 官方最佳实践
 - [OpenAI Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs) - 结构化输出技术文档
 
-#### 13.2 Claude 与长文本/XML技巧
+#### 13.2 Claude 与长文本/XML 技巧
 
 - [Claude Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - 强烈推荐，Claude 官方互动式提示词教程
 - [Claude Long Context Window Tips](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-window) - 处理超长文档的使用技巧

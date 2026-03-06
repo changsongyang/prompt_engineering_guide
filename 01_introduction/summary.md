@@ -1,4 +1,4 @@
-# 第一章：提示词工程概述
+## 第一章：提示词工程概述
 
 ## 本章小结
 
@@ -18,10 +18,10 @@
    - 可从基础层、技术层、系统层、战略层四个层次理解和实践
 
 2. **发展历程的关键节点**
-   - 2018年：BERT 发布，模板提示研究兴起
-   - 2020年：GPT-3 展示少样本学习能力
-   - 2022年：思维链技术突破，ChatGPT 引发全民关注
-   - 2023-2026年：技术成熟化、工具化、职业化
+   - 2018 年：BERT 发布，模板提示研究兴起
+   - 2020 年：GPT-3 展示少样本学习能力
+   - 2022 年：思维链技术突破，ChatGPT 引发全民关注
+   - 2023-2026 年：技术成熟化、工具化、职业化
 
 3. **提示词工程的重要性**
    - 弥合模型能力与实际效果的鸿沟
@@ -49,8 +49,8 @@
 
 #### 1.1 概念基础
 
-- [A Systematic Survey of Prompt Engineering](https://arxiv.org/abs/2402.07927) - 2024年发布的全面提示词工程综述
-- [The Prompt Report](https://arxiv.org/abs/2406.06608) - 最全面的提示词技术综述（58种技术+33个术语）
+- [A Systematic Survey of Prompt Engineering](https://arxiv.org/abs/2402.07927) - 2024 年发布的全面提示词工程综述
+- [The Prompt Report](https://arxiv.org/abs/2406.06608) - 最全面的提示词技术综述（58 种技术+33 个术语）
 - [Prompting Guide](https://www.promptingguide.ai/) - DAIR.AI 提供的提示词学习指南
 - [Pre-train, Prompt, and Predict](https://arxiv.org/abs/2107.13586) - 提示词范式的综述论文
 
