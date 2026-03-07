@@ -114,6 +114,7 @@ npx honkit serve
 | [《智能体 AI 权威指南》](https://github.com/yeasy/agentic_ai_guide) | 将提示词技术应用于智能体系统设计 |
 | [《大模型安全权威指南》](https://github.com/yeasy/ai_security_guide) | 提示词注入防御与安全提示词设计 |
 | [《OpenClaw 从入门到精通》](https://github.com/yeasy/openclaw_guide) | 在开源智能体框架中实践提示词工程 |
+| [《大模型原理与架构》](https://github.com/yeasy/llm_internals) | 深入理解大语言模型底层逻辑与架构 |
 
 > 💡 **推荐路径**：零基础学 AI → **提示词工程（本书）** → 上下文工程 → 智能体 AI / Claude 技术指南 → 大模型安全
 
