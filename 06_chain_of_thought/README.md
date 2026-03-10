@@ -29,3 +29,7 @@
 - [6.6 Reasoning 模型决策框架：何时使用与最佳实践](6.6_reasoning_decision_framework.md)
 - [6.7 本章实战练习](6.7_practice.md)
 - [本章小结](summary.md)
+
+---
+
+> **📚 延伸阅读**：提示词在智能体循环中的自动装配机制，参见 [《OpenClaw 从入门到精通》第 10.3 节](https://github.com/yeasy/openclaw_guide)；上下文窗口管理对提示词效果的影响，参见 [《大模型上下文工程权威指南》](https://github.com/yeasy/context_engineering_guide)。
