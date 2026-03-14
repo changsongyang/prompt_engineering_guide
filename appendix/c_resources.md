@@ -147,7 +147,7 @@ https://platform.openai.com/playground
 OpenAI官方的交互式测试环境。
 
 **Anthropic Console**
-https://console.anthropic.com/
+https://platform.claude.com/
 Claude的测试控制台。
 
 **Google AI Studio**
