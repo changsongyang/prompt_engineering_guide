@@ -41,7 +41,7 @@
 #### 10.1 多模态大模型进展
 
 - [GPT-4V(ision) System Card](https://cdn.openai.com/papers/GPTV_System_Card.pdf) - OpenAI 视觉大模型的官方技术报告
-- [Gemini 3 Pro Technical Report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) - Gemini 官方技术报告
+- [Gemini 1.5 Technical Report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) - Gemini 官方技术报告
 
 #### 10.2 多模态提示词指南
 
