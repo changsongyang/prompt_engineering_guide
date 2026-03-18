@@ -193,8 +193,8 @@ LangChain官方Discord，活跃的开发者社区。
 ### C.5.4 持续学习
 
 **资讯聚类:**
-- https://www.aiweekly.co/
-- https://www.deeplearning.ai/the-batch/
+- [AI Weekly](https://www.aiweekly.co/)
+- [The Batch](https://www.deeplearning.ai/the-batch/)
 
 **前沿论文:**
 - arXiv.org (cs.CL, cs.AI)

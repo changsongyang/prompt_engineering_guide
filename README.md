@@ -134,7 +134,7 @@ graph LR
 
 ## 阅读方式
 
-**在线阅读**：[https://yeasy.gitbook.io/prompt_engineering_guide/](https://yeasy.gitbook.io/prompt_engineering_guide/)
+**在线阅读**：[GitBook 在线版](https://yeasy.gitbook.io/prompt_engineering_guide/)
 
 **本地阅读**（使用 [HonKit](https://github.com/honkit/honkit) 构建）：
 

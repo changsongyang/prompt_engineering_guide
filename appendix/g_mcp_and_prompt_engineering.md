@@ -515,8 +515,8 @@ Token消耗      5000-8000/请求        800-1200/请求
 
 ### G.9 学习资源
 
-- 官方MCP规范：https://modelcontextprotocol.io
-- MCP SDK文档：https://github.com/anthropics/mcp-sdk-python
+- [官方 MCP 规范](https://modelcontextprotocol.io)
+- [MCP SDK 文档](https://github.com/anthropics/mcp-sdk-python)
 - Anthropic的MCP最佳实践指南
 - 社区驱动的MCP服务器集合
 
