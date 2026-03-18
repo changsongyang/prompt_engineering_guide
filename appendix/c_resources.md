@@ -6,32 +6,26 @@
 
 ### C.1.1 OpenAI
 
-**Prompt Engineering Guide**
-https://platform.openai.com/docs/guides/prompt-engineering
+**[Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)**
 OpenAI官方提示词工程指南，包含最佳实践和技巧，非常务实。
 
-**GPT Best Practices**
-https://platform.openai.com/docs/guides/gpt-best-practices
+**[GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)**
 GPT系列模型的使用最佳实践。
 
-**OpenAI Cookbook**
-https://cookbook.openai.com/
+**[OpenAI Cookbook](https://cookbook.openai.com/)**
 官方开源代码示例库。
 
 ### C.1.2 Anthropic
 
-**Claude Prompt Engineering Interactive Tutorial**
-https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+**[Claude Prompt Engineering Interactive Tutorial](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)**
 提供从基础到高级（尤其是 XML 标签约束）的详尽教程。
 
-**Claude Prompt Library**
-https://docs.anthropic.com/en/prompt-library/library
+**[Claude Prompt Library](https://docs.anthropic.com/en/prompt-library/library)**
 官方提供的提示词示例库。
 
 ### C.1.3 Google
 
-**Gemini Prompting Guide**
-https://ai.google.dev/gemini-api/docs/prompting-intro
+**[Gemini Prompting Guide](https://ai.google.dev/gemini-api/docs/prompting-intro)**
 Gemini模型的提示词设计指南，关注于长上下文和多模态输入的技巧。
 
 ## C.2 核心参考文献与研究论文
@@ -83,42 +77,34 @@ Lewis et al., 2020 - RAG 原始论文。
 
 ### C.3.1 开发框架
 
-**LangChain**
-https://github.com/langchain-ai/langchain
+**[LangChain](https://github.com/langchain-ai/langchain)**
 本书多次提及，目前应用最广的 LLM 开发框架，提供了丰富的工具链与 Pipeline 抽象。
 特点：提示词模板管理、链式调用、Agent构建、丰富的集成。
 
-**LlamaIndex**
-https://github.com/run-llama/llama_index
+**[LlamaIndex](https://github.com/run-llama/llama_index)**
 专注于数据接入和RAG的框架。
 特点：多种数据源连接器、灵活的索引结构、查询引擎。
 
-**DSPy**
-https://github.com/stanfordnlp/dspy
+**[DSPy](https://github.com/stanfordnlp/dspy)**
 斯坦福大学推出的用于自动编译和优化模型提示词的框架。用代码与评估指标代替手工撰写长提示词。
 
-**AutoGen**
-https://github.com/microsoft/autogen
+**[AutoGen](https://github.com/microsoft/autogen)**
 微软的多Agent协作框架。
 特点：Agent对话协作、人机协作、代码执行。
 
-**CrewAI**
-https://github.com/joaomdmoura/crewAI
+**[CrewAI](https://github.com/joaomdmoura/crewAI)**
 轻量级的Agent团队协作框架。
 
 ### C.3.2 测试与评测工具
 
-**Promptfoo**
-https://github.com/promptfoo/promptfoo
+**[Promptfoo](https://github.com/promptfoo/promptfoo)**
 广受欢迎的开源提示词测试、评测和版本对齐工具，支持 LLM-as-a-judge。
 
-**PromptLayer**
-https://promptlayer.com/
+**[PromptLayer](https://promptlayer.com/)**
 提示词版本控制和监控平台。
 功能：API调用日志、提示词版本管理、性能分析。
 
-**LangSmith**
-https://www.langchain.com/langsmith
+**[LangSmith](https://www.langchain.com/langsmith)**
 LangChain官方的调试和监控工具。
 
 ### C.3.3 向量数据库
@@ -130,34 +116,28 @@ LangChain官方的调试和监控工具。
 
 ### C.3.4 其他项目
 
-**Awesome Prompt Engineering**
-https://github.com/promptslab/Awesome-Prompt-Engineering
+**[Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)**
 社区维护的提示词工程学习资源大列表。
 
-**awesome-chatgpt-prompts**
-https://github.com/f/awesome-chatgpt-prompts
+**[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)**
 精选的ChatGPT提示词集合。
 
 ## C.4 实用平台与测试工具
 
 ### C.4.1 提示词测试
 
-**OpenAI Playground**
-https://platform.openai.com/playground
+**[OpenAI Playground](https://platform.openai.com/playground)**
 OpenAI官方的交互式测试环境。
 
-**Anthropic Console**
-https://platform.claude.com/
+**[Anthropic Console](https://platform.claude.com/)**
 Claude的测试控制台。
 
-**Google AI Studio**
-https://aistudio.google.com/
+**[Google AI Studio](https://aistudio.google.com/)**
 Google提供的多模态提示词开发与API测试平台。
 
 ### C.4.2 Token计算
 
-**OpenAI Tokenizer**
-https://platform.openai.com/tokenizer
+**[OpenAI Tokenizer](https://platform.openai.com/tokenizer)**
 可视化Token分词工具。
 
 **tiktoken (Python库)**
@@ -176,8 +156,7 @@ print(tokens)
 
 ### C.4.3 提示词优化
 
-**PromptPerfect**
-https://promptperfect.jina.ai/
+**[PromptPerfect](https://promptperfect.jina.ai/)**
 AI驱动的提示词优化工具。
 
 **Prompt Generator**
@@ -190,14 +169,12 @@ AI驱动的提示词优化工具。
 **DeepLearning.AI - ChatGPT Prompt Engineering for Developers**
 由OpenAI和DeepLearning.AI联合推出的免费课程。
 
-**Prompt Engineering Guide (DAIR.AI)**
-https://www.promptingguide.ai/
+**[Prompt Engineering Guide (DAIR.AI)](https://www.promptingguide.ai/)**
 全面的提示词工程学习指南，涵盖各种技术。
 
 ### C.5.2 博客与社区
 
-**Lil'Log (Lilian Weng)**
-https://lilianweng.github.io/
+**[Lil'Log (Lilian Weng)](https://lilianweng.github.io/)**
 OpenAI研究员的技术博客，深入浅出。
 
 **Reddit - r/PromptEngineering**
