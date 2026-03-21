@@ -97,6 +97,7 @@
 #### 修复方案
 
 ```python
+
 # 反模式检测脚本
 def detect_over_prompting(prompt: str) -> dict:
     """检测过度限定问题"""
@@ -409,6 +410,7 @@ for task in decomposition:
 #### 修复方案：提示词链
 
 ```python
+
 # 修复：使用提示词链
 
 class FinancialReportProcessor:

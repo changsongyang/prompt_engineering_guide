@@ -249,6 +249,7 @@ const prompt = await mcp.getPrompt("code_review", {
 **示例**：
 
 ```text
+
 # 旧方式（包含所有细节，超过5000 tokens）
 你是一个专业的数据分析师...
 你可以访问以下数据库...
@@ -296,6 +297,7 @@ prompts/
 
 应用使用：
 ```python
+
 # 而不是在每个应用中重复提示词
 class AnalysisAgent:
     async def analyze_competitor(self, company_name):
@@ -411,6 +413,7 @@ MCP + Prompt Caching的最佳实践：
 ### G.6 企业级MCP部署示例
 
 ```python
+
 # 企业的MCP服务器配置示例
 class EnterpriseMCPServer:
     def __init__(self):
