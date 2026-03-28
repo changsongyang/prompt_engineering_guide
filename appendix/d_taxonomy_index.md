@@ -106,13 +106,13 @@ flowchart TD
     Q3 -->|否| Q4{"对输出格式要求严格?"}
     Q4 -->|是| FewShot["使用少样本"]
     Q4 -->|否| ZeroShot["使用零样本"]
-    
+
     RAG --> Q5{"需要高可靠性?"}
     Tool --> Q5
     CoT --> Q5
     FewShot --> Q5
     ZeroShot --> Q5
-    
+
     Q5 -->|是| Ensemble["添加一致性验证"]
     Q5 -->|否| Done["完成设计"]
     Ensemble --> Done
