@@ -32,4 +32,4 @@
 
 ---
 
-> **📚 延伸阅读**：提示词在智能体循环中的自动装配机制，参见 [《OpenClaw 从入门到精通》第 10.3 节](https://github.com/yeasy/openclaw_guide)；上下文窗口管理对提示词效果的影响，参见 [《大模型上下文工程权威指南》](https://github.com/yeasy/context_engineering_guide)。
+> **📚 延伸阅读**：提示词在智能体循环中的自动装配机制，参见 [《OpenClaw 从入门到精通》第 10.3 节](https://yeasy.gitbook.io/openclaw_guide)；上下文窗口管理对提示词效果的影响，参见 [《大模型上下文工程权威指南》](https://yeasy.gitbook.io/context_engineering_guide)。
