@@ -151,7 +151,7 @@ brew tap yeasy/tap && brew install mdpress
 mdpress serve
 ```
 
-启动本地服务器后，访问 [本地阅读地址](http://localhost:4000)
+启动本地服务器后，访问 [本地阅读地址](http://localhost:9000)
 
 ---
 
@@ -168,6 +168,7 @@ mdpress serve
 | [《大模型安全权威指南》](https://yeasy.gitbook.io/ai_security_guide) | 提示词注入防御与安全提示词设计 |
 | [《OpenClaw 从入门到精通》](https://yeasy.gitbook.io/openclaw_guide) | 在开源智能体框架中实践提示词工程 |
 | [《大模型原理与架构》](https://yeasy.gitbook.io/llm_internals) | 深入理解大语言模型底层逻辑与架构 |
+| [《智能体 Harness 工程指南》](https://yeasy.gitbook.io/harness_engineering_guide) | 在 Harness 系统中实践提示词工程与输出治理 |
 
 > 💡 **推荐路径**：零基础学 AI → **提示词工程（本书）** → 上下文工程 → 智能体 AI / Claude 技术指南 → 大模型安全
 
