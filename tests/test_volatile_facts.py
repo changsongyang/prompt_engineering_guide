@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import tempfile
 import unittest
+import re
 from datetime import date
 from pathlib import Path
 
@@ -36,7 +37,18 @@ class VolatileFactsContractTests(unittest.TestCase):
 
     def test_repository_volatile_facts_are_current_and_consistent(self):
         check = getattr(rules, "check_volatile_facts", lambda **_: ["missing checker"])
-        self.assertEqual(check(root=ROOT, as_of=date(2026, 7, 10)), [])
+        # Check the real ledger as of its OWN verified_at, not a hardcoded date.
+        # Pinning it here meant re-verifying the ledger — the one thing the TTL
+        # exists to force — failed with "verified_at is in the future". Every
+        # other as_of in this file targets a synthetic root and is left alone.
+        stamped = re.search(
+            r"verified_at=(\d{4})-(\d{2})-(\d{2})",
+            (ROOT / "appendix" / "h_volatile_facts.md").read_text(encoding="utf-8"),
+        )
+        self.assertIsNotNone(stamped, "ledger must carry verified_at")
+        self.assertEqual(
+            check(root=ROOT, as_of=date(*(int(g) for g in stamped.groups()))), []
+        )
 
     def test_contract_expires_after_exact_thirty_day_ttl(self):
         check = getattr(rules, "check_volatile_facts", lambda **_: ["missing checker"])

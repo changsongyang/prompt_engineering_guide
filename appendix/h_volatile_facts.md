@@ -1,6 +1,6 @@
 # 附录 H：快变事实核验表
 
-<!-- volatile-meta: verified_at=2026-07-10 expires_at=2026-08-09 ttl_days=30 -->
+<!-- volatile-meta: verified_at=2026-07-28 expires_at=2026-08-27 ttl_days=30 -->
 
 本表是模型、API、平台状态与已公布未来切换点的唯一快变事实入口。超过 `expires_at` 后，项目检查会失败；正文与本表冲突时，应先按官方来源更新本表，再同步带 `volatile-ref` 标记的章节。
 
@@ -24,7 +24,7 @@
 
 | 提供方 | 当前维护口径 | 权威入口 | 编辑要求 |
 | --- | --- | --- | --- |
-| Anthropic | `claude-sonnet-5` 于 2026-06-30 发布，1M 上下文、128K 最大输出，Adaptive Thinking 默认开启。Claude Fable 5 / Mythos 5 于 6 月 9 日发布、6 月 12 日暂停，并于 7 月 1 日恢复访问；Fable 5 为 GA，规格含 1M 上下文、128K 输出、Adaptive Thinking 常开和 $10/$50 价格，Mythos 5 仅限 Project Glasswing 获批客户。 | [Claude release notes](https://platform.claude.com/docs/en/release-notes/overview), [Models overview](https://platform.claude.com/docs/en/about-claude/models/overview), [Introducing Fable 5 and Mythos 5](https://platform.claude.com/docs/en/about-claude/models/introducing-claude-fable-5-and-claude-mythos-5), [Access statement](https://www.anthropic.com/news/fable-mythos-access) | 不再沿用“Fable 5 访问暂停”的冲突期结论；不预测未发布模型，不把 beta 当 GA。“最强/旗舰”须区分 Fable 5（全系）与 Opus 4.8（Opus 档），Fable 与 Sonnet 的 thinking、拒绝和可用性行为必须分别处理。 |
+| Anthropic | `claude-opus-5` 于 2026-07-24 发布，$5/$25、1M 上下文、128K 最大输出、Adaptive Thinking；官方模型页把它列为“不确定用哪个模型时”的起点，并已把 Opus 4.8/4.7/4.6 与 Sonnet 4.6/4.5、Opus 4.5/4.1 收进 Legacy models 折叠区（仍可用，建议迁移），Haiku 4.5 不在其中。`claude-sonnet-5` 于 2026-06-30 发布，1M 上下文、128K 最大输出，Adaptive Thinking 默认开启。Claude Fable 5 / Mythos 5 于 6 月 9 日发布、6 月 12 日暂停，并于 7 月 1 日恢复访问；Fable 5 为 GA，规格含 1M 上下文、128K 输出、Adaptive Thinking 常开和 $10/$50 价格，Mythos 5 仅限 Project Glasswing 获批客户。 | [Claude release notes](https://platform.claude.com/docs/en/release-notes/overview), [Models overview](https://platform.claude.com/docs/en/about-claude/models/overview), [Introducing Fable 5 and Mythos 5](https://platform.claude.com/docs/en/about-claude/models/introducing-claude-fable-5-and-claude-mythos-5), [Access statement](https://www.anthropic.com/news/fable-mythos-access) | 不再沿用“Fable 5 访问暂停”的冲突期结论；不预测未发布模型，不把 beta 当 GA。“最强/旗舰”须区分 Fable 5（全系）与当前 Opus 档最新型号（现为 Opus 5）；Legacy 折叠区中的型号不得写成最强或推荐，Fable 与 Sonnet 的 thinking、拒绝和可用性行为必须分别处理。 |
 
 <!-- volatile-status: id=google-gemini-models status=current -->
 
