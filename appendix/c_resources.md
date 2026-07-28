@@ -89,7 +89,7 @@ Lewis et al., 2020 - RAG 原始论文。
 斯坦福大学推出的用于自动编译和优化模型提示词的框架。用代码与评估指标代替手工撰写长提示词。
 
 **[AutoGen](https://github.com/microsoft/autogen)**
-微软的多Agent协作框架。
+微软的多智能体协作框架。
 特点：Agent对话协作、人机协作、代码执行。
 
 **[CrewAI](https://github.com/joaomdmoura/crewAI)**
