@@ -69,7 +69,7 @@
 
 #### 7.2 设计模式
 
-- [LangChain Chains](https://python.langchain.com/docs/concepts/chains/) - LangChain 链式调用核心概念
+- [LangChain Chains](https://docs.langchain.com/oss/python/langgraph/workflows-agents) - LangChain 链式调用核心概念
 - [Prompt Chaining Guide](https://www.promptingguide.ai/techniques/prompt_chaining) - 提示词链模式指南
 
 #### 7.3 上下文传递与状态管理

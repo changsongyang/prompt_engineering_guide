@@ -43,16 +43,16 @@
 #### 9.1 RAG 原理与架构
 
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) - RAG 的重要开山之作
-- [LangChain RAG Documentation](https://python.langchain.com/docs/use_cases/question_answering/) - 标准 RAG 实现指南
+- [LangChain RAG Documentation](https://docs.langchain.com/oss/python/deepagents/rag) - 标准 RAG 实现指南
 
 #### 9.2 提示词与重排高级技巧
 
-- [Advanced RAG Techniques](https://docs.llamaindex.ai/en/stable/optimizing/production_rag/) - LlamaIndex 提供的高阶 RAG 策略
-- [Anthropic Embeddings and RAG](https://docs.anthropic.com/en/docs/build-with-claude/embeddings) - Claude 相关的 RAG 参考资料
+- [Advanced RAG Techniques](https://developers.llamaindex.ai/python/framework/optimizing/production_rag/) - LlamaIndex 提供的高阶 RAG 策略
+- [Anthropic Embeddings and RAG](https://platform.claude.com/docs/en/build-with-claude/embeddings) - Claude 相关的 RAG 参考资料
 
 #### 9.3 评测框架
 
-- [RAGAS: Automated Evaluation of RAG](https://github.com/explodinggradients/ragas) - RAG 自动化评分框架
+- [RAGAS: Automated Evaluation of RAG](https://github.com/vibrantlabsai/ragas) - RAG 自动化评分框架
 
 ### 下一章预告
 

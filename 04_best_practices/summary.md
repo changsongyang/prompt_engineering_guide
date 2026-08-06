@@ -74,23 +74,23 @@
 
 #### 4.1 清晰与具体
 
-- [Write Clear Instructions](https://platform.openai.com/docs/guides/prompt-engineering#write-clear-instructions) - OpenAI 清晰指令指南
-- [Be Specific and Direct](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/be-clear-and-direct) - Anthropic 清晰直接原则
-- [Prompt Engineering Best Practices](https://ai.google.dev/gemini-api/docs/prompting-intro#best-practices) - Google 最佳实践
+- [Write Clear Instructions](https://developers.openai.com/api/docs/guides/prompt-engineering) - OpenAI 清晰指令指南
+- [Be Specific and Direct](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices#be-clear-and-direct) - Anthropic 清晰直接原则
+- [Prompt Engineering Best Practices](https://ai.google.dev/gemini-api/docs/prompting-strategies) - Google 最佳实践
 
 #### 4.2 分隔符
 
-- [Use Delimiters](https://platform.openai.com/docs/guides/prompt-engineering#tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input) - OpenAI 分隔符使用技巧
-- [Use XML Tags](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags) - Anthropic XML 标签指南
+- [Use Delimiters](https://developers.openai.com/api/docs/guides/prompt-engineering) - OpenAI 分隔符使用技巧
+- [Use XML Tags](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices#structure-prompts-with-xml-tags) - Anthropic XML 标签指南
 
 #### 4.3 角色设定
 
-- [System Prompt Examples](https://platform.openai.com/docs/guides/prompt-engineering#tactic-ask-the-model-to-adopt-a-persona) - OpenAI 角色设定示例
+- [System Prompt Examples](https://developers.openai.com/api/docs/guides/prompt-engineering) - OpenAI 角色设定示例
 - [Give Claude a Role](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices#give-claude-a-role) - Anthropic 角色设定指南
 
 #### 4.4 迭代优化
 
-- [Test Changes Systematically](https://platform.openai.com/docs/guides/prompt-engineering#strategy-test-changes-systematically) - OpenAI 系统化测试策略
+- [Test Changes Systematically](https://developers.openai.com/api/docs/guides/prompt-engineering) - OpenAI 系统化测试策略
 - [Iterate on Prompts](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices) - Anthropic 提示词迭代指南
 
 ### 下一章预告

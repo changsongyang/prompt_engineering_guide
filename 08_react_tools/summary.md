@@ -48,8 +48,8 @@
 
 #### 8.2 函数调用
 
-- [OpenAI Function Calling Guide](https://platform.openai.com/docs/guides/function-calling) - OpenAI 官方函数调用实战指南
-- [Anthropic Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) - Claude 工具使用指南
+- [OpenAI Function Calling Guide](https://developers.openai.com/api/docs/guides/function-calling) - OpenAI 官方函数调用实战指南
+- [Anthropic Tool Use](https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview) - Claude 工具使用指南
 
 #### 8.3 Agent 架构设计
 

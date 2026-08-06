@@ -40,7 +40,7 @@
 #### 12.1 自动提示词生成与 DSPy
 
 - [Large Language Models Are Human-Level Prompt Engineers (APE)](https://arxiv.org/abs/2211.01910) - APE 原始论文
-- [DSPy Official Documentation](https://dspy-docs.vercel.app/) - 斯坦福 DSPy 框架官方文档与教程
+- [DSPy Official Documentation](https://dspy.ai/) - 斯坦福 DSPy 框架官方文档与教程
 - [Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](https://arxiv.org/abs/2309.16797) - DeepMind 关于提示词自进化的论文
 
 #### 12.2 大模型评估技术
@@ -50,7 +50,7 @@
 
 #### 12.3 PromptOps 生态
 
-- [LangSmith](https://docs.smith.langchain.com/) - 提示词管理与观测平台
+- [LangSmith](https://docs.langchain.com/langsmith/observability) - 提示词管理与观测平台
 - [PromptLayer](https://promptlayer.com/) - 专为 Prompt 工程设计的中间件
 
 ### 下一章预告

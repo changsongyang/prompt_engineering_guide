@@ -72,23 +72,23 @@ Token 机制      → 简洁高效的表达
 
 #### 2.2 主流模型
 
-- [OpenAI Models](https://platform.openai.com/docs/models) - OpenAI 模型官方文档
-- [Anthropic Claude Models](https://docs.anthropic.com/en/docs/about-claude/models/all-models) - Claude 模型官方文档
-- [Google Gemini Models](https://ai.google.dev/gemini-api/docs/models/gemini) - Gemini 模型官方文档
-- [Meta Llama](https://llama.meta.com/) - Llama 开源模型官网
+- [OpenAI Models](https://developers.openai.com/api/docs/models) - OpenAI 模型官方文档
+- [Anthropic Claude Models](https://platform.claude.com/docs/en/about-claude/models/overview) - Claude 模型官方文档
+- [Google Gemini Models](https://ai.google.dev/gemini-api/docs/models) - Gemini 模型官方文档
+- [Meta Llama](https://developer.meta.com/ai/docs/overview/) - Llama 开源模型官网
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - 开源模型排行榜
 
 #### 2.3 参数与控制
 
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference/chat/create) - OpenAI 参数完整说明
-- [Anthropic API Reference](https://docs.anthropic.com/en/api/messages) - Claude 参数完整说明
+- [Anthropic API Reference](https://platform.claude.com/docs/en/api/messages) - Claude 参数完整说明
 - [The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751) - 温度、top-p 等采样策略的经典分析论文
 
 #### 2.4 上下文窗口
 
 - [Lost in the Middle](https://arxiv.org/abs/2307.03172) - 长上下文中位置效应的研究论文
 - [Leave No Context Behind](https://arxiv.org/abs/2404.07143) - Google 提出的 Infini-attention 无限上下文技术论文
-- [Anthropic Context Windows](https://docs.anthropic.com/en/docs/build-with-claude/context-windows) - Claude 上下文窗口最佳实践
+- [Anthropic Context Windows](https://platform.claude.com/docs/en/build-with-claude/context-windows) - Claude 上下文窗口最佳实践
 
 ### 下一章预告
 

@@ -61,11 +61,11 @@
 
 #### 1.3 重要性与应用场景
 
-- [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - OpenAI 官方提示词工程指南
-- [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) - Anthropic Claude 提示词最佳实践
-- [Google AI Prompt Design](https://ai.google.dev/gemini-api/docs/prompting-intro) - Google Gemini 提示词设计指南
-- [OpenAI Cookbook](https://cookbook.openai.com/) - OpenAI 官方示例和最佳实践集合
-- [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library/library) - Claude 提示词模板库
+- [OpenAI Prompt Engineering Guide](https://developers.openai.com/api/docs/guides/prompt-engineering) - OpenAI 官方提示词工程指南
+- [Anthropic Prompt Engineering](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) - Anthropic Claude 提示词最佳实践
+- [Google AI Prompt Design](https://ai.google.dev/gemini-api/docs/prompting-strategies) - Google Gemini 提示词设计指南
+- [OpenAI Cookbook](https://developers.openai.com/cookbook) - OpenAI 官方示例和最佳实践集合
+- [Claude Prompting Best Practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices) - Claude 提示词最佳实践与示例（原 Prompt Library 已并入此页）
 - [LangChain](https://langchain.com/) - 流行的 LLM 应用开发框架
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - 提示词工程资源汇总
 

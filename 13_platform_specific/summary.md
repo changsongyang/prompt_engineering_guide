@@ -45,8 +45,8 @@
 
 #### 13.1 OpenAI 与结构化输出
 
-- [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - OpenAI 官方最佳实践
-- [OpenAI Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs) - 结构化输出技术文档
+- [OpenAI Prompt Engineering Guide](https://developers.openai.com/api/docs/guides/prompt-engineering) - OpenAI 官方最佳实践
+- [OpenAI Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs) - 结构化输出技术文档
 
 #### 13.2 Claude 与长文本/XML 技巧
 

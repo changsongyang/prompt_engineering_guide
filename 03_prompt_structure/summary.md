@@ -97,26 +97,26 @@
 
 #### 3.1 核心要素
 
-- [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - OpenAI 官方提示词指南
+- [OpenAI Prompt Engineering Guide](https://developers.openai.com/api/docs/guides/prompt-engineering) - OpenAI 官方提示词指南
 - [Anthropic Prompt Design](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices#general-principles) - Claude 提示词结构指南
 - [Google Prompt Design Strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies) - Gemini 提示词策略
 
 #### 3.2 指令设计
 
-- [Tactic: Include Details](https://platform.openai.com/docs/guides/prompt-engineering#tactic-include-details-in-your-query-to-get-more-relevant-answers) - OpenAI 具体化指令技巧
+- [Tactic: Include Details](https://developers.openai.com/api/docs/guides/prompt-engineering) - OpenAI 具体化指令技巧
 - [Give Claude a Role](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices#give-claude-a-role) - Anthropic 角色设定指南
 
 #### 3.3 上下文
 
-- [Provide Reference Text](https://platform.openai.com/docs/guides/prompt-engineering#tactic-provide-reference-text) - OpenAI 提供参考文本技巧
-- [Use XML Tags](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags) - Anthropic XML 标签使用指南
-- [Long Context Best Practices](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips) - Claude 长上下文技巧
+- [Provide Reference Text](https://developers.openai.com/api/docs/guides/prompt-engineering) - OpenAI 提供参考文本技巧
+- [Use XML Tags](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices#structure-prompts-with-xml-tags) - Anthropic XML 标签使用指南
+- [Long Context Best Practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices#long-context-prompting) - Claude 长上下文技巧
 
 #### 3.4 输出格式
 
 - [Control Output Format](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices#control-the-format-of-responses) - Anthropic 输出格式控制
-- [Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs) - OpenAI 结构化输出指南
-- [JSON Mode](https://platform.openai.com/docs/guides/json-mode) - OpenAI JSON 模式
+- [Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs) - OpenAI 结构化输出指南
+- [JSON Mode](https://developers.openai.com/api/docs/guides/structured-outputs#json-mode) - OpenAI JSON 模式
 
 ### 下一章预告
 

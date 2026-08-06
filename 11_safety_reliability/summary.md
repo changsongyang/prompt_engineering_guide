@@ -40,7 +40,7 @@
 
 - [OWASP Top 10 for Large Language Models](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - 权威的 LLM 安全漏洞与防御指南
 - [Prompt Injection Attacks](https://simonwillison.net/series/prompt-injection/) - Simon Willison 著名的提示词注入系列研究
-- [NVIDIA NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - 保护 LLM 对话的安全围栏框架
+- [NVIDIA NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - 保护 LLM 对话的安全围栏框架
 
 #### 11.2 模型对齐与越狱
 

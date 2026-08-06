@@ -12,20 +12,20 @@ OpenAI官方提示词工程指南，包含最佳实践和技巧，非常务实�
 **[Prompting Best Practices](https://developers.openai.com/api/docs/guides/prompt-engineering)**
 GPT 系列模型的提示词使用最佳实践。
 
-**[OpenAI Cookbook](https://cookbook.openai.com/)**
+**[OpenAI Cookbook](https://developers.openai.com/cookbook)**
 官方开源代码示例库。
 
 ### C.1.2 Anthropic
 
-**[Claude Prompt Engineering Interactive Tutorial](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)**
+**[Claude Prompt Engineering Interactive Tutorial](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)**
 提供从基础到高级（尤其是 XML 标签约束）的详尽教程。
 
-**[Claude Prompt Library](https://docs.anthropic.com/en/prompt-library/library)**
-官方提供的提示词示例库。
+**[Claude Prompting Best Practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)**
+官方的提示词最佳实践与示例合集；原先独立的 Prompt Library 页面已并入此页。
 
 ### C.1.3 Google
 
-**[Gemini Prompting Guide](https://ai.google.dev/gemini-api/docs/prompting-intro)**
+**[Gemini Prompting Guide](https://ai.google.dev/gemini-api/docs/prompting-strategies)**
 Gemini模型的提示词设计指南，关注于长上下文和多模态输入的技巧。
 
 ## C.2 核心参考文献与研究论文
@@ -92,7 +92,7 @@ Lewis et al., 2020 - RAG 原始论文。
 微软的多智能体协作框架。
 特点：Agent对话协作、人机协作、代码执行。
 
-**[CrewAI](https://github.com/joaomdmoura/crewAI)**
+**[CrewAI](https://github.com/crewAIInc/crewAI)**
 轻量级的Agent团队协作框架。
 
 ### C.3.2 测试与评测工具
@@ -104,7 +104,7 @@ Lewis et al., 2020 - RAG 原始论文。
 提示词版本控制和监控平台。
 功能：API调用日志、提示词版本管理、性能分析。
 
-**[LangSmith](https://www.langchain.com/langsmith)**
+**[LangSmith](https://www.langchain.com/langsmith/observability)**
 LangChain官方的调试和监控工具。
 
 ### C.3.3 向量数据库
@@ -119,7 +119,7 @@ LangChain官方的调试和监控工具。
 **[Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)**
 社区维护的提示词工程学习资源大列表。
 
-**[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)**
+**[awesome-chatgpt-prompts](https://github.com/f/prompts.chat)**
 精选的ChatGPT提示词集合。
 
 ## C.4 实用平台与测试工具

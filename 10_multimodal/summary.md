@@ -43,8 +43,8 @@
 
 #### 10.2 多模态提示词指南
 
-- [Anthropic Vision Guide](https://docs.anthropic.com/en/docs/build-with-claude/vision) - Claude 视觉提示词官方最佳实践
-- [OpenAI Vision API](https://platform.openai.com/docs/guides/vision) - OpenAI 图像处理指南
+- [Anthropic Vision Guide](https://platform.claude.com/docs/en/build-with-claude/vision) - Claude 视觉提示词官方最佳实践
+- [OpenAI Vision API](https://developers.openai.com/api/docs/guides/images-vision) - OpenAI 图像处理指南
 
 ### 下一章预告
 
