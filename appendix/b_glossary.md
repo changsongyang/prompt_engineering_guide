@@ -8,19 +8,19 @@
 Claude Fable 5 / Mythos 5（常开且不可关闭）、Claude Opus 5（默认开启，关闭时受 `effort` 限制）、Claude Sonnet 5（默认开启）与 Opus 4.8、Opus 4.7、Opus 4.6、Sonnet 4.6 支持的推理模式（`type: "adaptive"`），由模型根据任务复杂度自动决定思考深度。Fable 5 / Mythos 5 已于 2026-07-01 恢复访问，Mythos 5 仍限获批客户；Sonnet 5 与 Opus 4.8 / 4.7 不支持手动 Extended Thinking，Opus 4.6 与 Sonnet 4.6 上的手动 Extended Thinking 已被标为 deprecated。
 
 **智能体（Agent）**
-能够自主感知环境、做出决策并采取行动的AI系统，通常具备规划、执行和反思能力。
+能够自主感知环境、做出决策并采取行动的 AI 系统，通常具备规划、执行和反思能力。
 
 **智能体驱动的检索增强生成（Agentic RAG）**
 智能体驱动的检索增强生成，支持多轮自适应检索与推理，实现更灵活的知识检索与推理循环。
 
 **API（应用程序接口）**
-Application Programming Interface，允许应用程序之间相互通信的接口，大语言模型通常通过API提供服务。
+Application Programming Interface，允许应用程序之间相互通信的接口，大语言模型通常通过 API 提供服务。
 
 **APE（自动提示词工程）**
-Automatic Prompt Engineering，使用AI自动生成和优化提示词的技术。
+Automatic Prompt Engineering，使用 AI 自动生成和优化提示词的技术。
 
 **Attention Mechanism（注意力机制）**
-Transformer架构的核心机制，使模型能够关注输入序列中的不同部分。
+Transformer 架构的核心机制，使模型能够关注输入序列中的不同部分。
 
 ## B
 
@@ -33,7 +33,7 @@ Transformer架构的核心机制，使模型能够关注输入序列中的不同
 ## C
 
 **Chain-of-Thought（思维链）**
-通过引导模型展示推理步骤来提升复杂任务表现的提示技术，简称CoT。详见[第6章](../06_chain_of_thought/README.md)。
+通过引导模型展示推理步骤来提升复杂任务表现的提示技术，简称 CoT。详见[第 6 章](../06_chain_of_thought/README.md)。
 
 **ChatML**
 一种用于格式化对话的标记语言，某些开源模型使用此格式。
@@ -45,15 +45,15 @@ RAG 系统中，将长文档分割成的较小片段，便于检索和处理。
 超越提示词工程的范式，关注动态组装和管理 LLM 的完整输入上下文，包括系统指令、检索内容、记忆状态等。
 
 **Context Window（上下文窗口）**
-模型一次能处理的最大Token数量，决定了输入和输出的总长度限制。
+模型一次能处理的最大 Token 数量，决定了输入和输出的总长度限制。
 
 **CoT（思维链）**
-Chain-of-Thought的缩写，见Chain-of-Thought。
+Chain-of-Thought 的缩写，见 Chain-of-Thought。
 
 ## D
 
 **Delimiter（分隔符）**
-用于区分提示词不同部分的标记，如三引号、XML标签等。
+用于区分提示词不同部分的标记，如三引号、XML 标签等。
 
 ## E
 
@@ -63,17 +63,17 @@ Chain-of-Thought的缩写，见Chain-of-Thought。
 ## F
 
 **Few-Shot Learning（少样本学习）**
-在提示词中提供少量示例来引导模型学习任务模式的技术。详见[第5章](../05_few_shot/README.md)。
+在提示词中提供少量示例来引导模型学习任务模式的技术。详见[第 5 章](../05_few_shot/README.md)。
 
 **Fine-tuning（微调）**
 在预训练模型基础上，使用特定数据进行进一步训练以适应特定任务。
 
 **Function Calling（函数调用）**
-模型生成结构化的函数调用请求，以调用外部工具或API的能力。
+模型生成结构化的函数调用请求，以调用外部工具或 API 的能力。
 
 ## G
 
-**Generative AI（生成式AI）**
+**Generative AI（生成式 AI）**
 能够生成新内容（文本、图像、音频等）的人工智能技术。
 
 **Grounding（事实基础）**
@@ -97,7 +97,7 @@ Chain-of-Thought的缩写，见Chain-of-Thought。
 
 ## J
 
-**JSON（JavaScript对象表示法）**
+**JSON（JavaScript 对象表示法）**
 一种轻量级的数据交换格式，常用于结构化输出。
 
 ## L
@@ -106,7 +106,7 @@ Chain-of-Thought的缩写，见Chain-of-Thought。
 Large Language Model，基于大规模文本数据训练的生成式语言模型。
 
 **LangChain**
-用于构建LLM应用的开发框架，提供提示词管理、链式调用等功能。
+用于构建 LLM 应用的开发框架，提供提示词管理、链式调用等功能。
 
 ## M
 
@@ -142,15 +142,15 @@ Model Context Protocol，Anthropic 提出的模型上下文协议，标准化 LL
 通过恶意输入试图操控模型行为的安全攻击手段。
 
 **PromptOps**
-将DevOps理念应用于提示词生命周期管理的实践。
+将 DevOps 理念应用于提示词生命周期管理的实践。
 
 ## R
 
 **RAG（检索增强生成）**
-Retrieval-Augmented Generation，结合信息检索和文本生成的技术架构。详见[第9章](../09_rag/README.md)。
+Retrieval-Augmented Generation，结合信息检索和文本生成的技术架构。详见[第 9 章](../09_rag/README.md)。
 
 **ReAct**
-Reasoning and Acting，将推理与行动交替进行的Agent框架。详见[第8章](../08_react_tools/README.md)。
+Reasoning and Acting，将推理与行动交替进行的 Agent 框架。详见[第 8 章](../08_react_tools/README.md)。
 
 **RLHF（人类反馈强化学习）**
 Reinforcement Learning from Human Feedback，使用人类反馈优化模型行为的训练方法。
@@ -174,14 +174,14 @@ Reinforcement Learning from Human Feedback，使用人类反馈优化模型行�
 **Token（词元）**
 模型处理文本的基本单位，可以是一个词、词的一部分或标点符号。
 
-**Token Limit（Token限制）**
-上下文窗口的大小限制，决定了输入输出的总Token数上限。
+**Token Limit（Token 限制）**
+上下文窗口的大小限制，决定了输入输出的总 Token 数上限。
 
 **Top-k Sampling**
-每步生成时只从概率最高的k个Token中采样的策略。
+每步生成时只从概率最高的 k 个 Token 中采样的策略。
 
 **Top-p Sampling（核采样）**
-每步生成时从累积概率达到p的最小Token集合中采样的策略。
+每步生成时从累积概率达到 p 的最小 Token 集合中采样的策略。
 
 **ToT（思维树）**
 Tree of Thoughts，将推理过程组织为树形结构的高级推理策略。
@@ -200,14 +200,14 @@ Vision-Language Model，能够理解图像和文本的多模态模型。
 ## Z
 
 **Zero-Shot Learning（零样本学习）**
-不提供示例，仅通过指令描述任务让模型完成的技术。详见[第5章](../05_few_shot/README.md)。
+不提供示例，仅通过指令描述任务让模型完成的技术。详见[第 5 章](../05_few_shot/README.md)。
 
 ---
 
-## 新增术语（2025-2026年更新）
+## 新增术语（2025-2026 年更新）
 
 **A2A Protocol（Agent-to-Agent 协议）**
-Google提出的Agent间通信标准化协议，定义了多智能体系统中的消息格式和交互模式。
+Google 提出的 Agent 间通信标准化协议，定义了多智能体系统中的消息格式和交互模式。
 
 **Extended Thinking（扩展思考）**
 Claude 等模型的深度推理功能，允许模型在回答前进行更深入的内部推理。预算参数（`budget_tokens`）控制方式在 Opus 4.6 / Sonnet 4.6 上已弃用、在 Opus 5、Opus 4.8 / 4.7 与 Sonnet 5 上已移除；Fable 5 / Mythos 5 只提供常开的 Adaptive Thinking，二者已于 2026-07-01 恢复访问。
@@ -216,7 +216,7 @@ Claude 等模型的深度推理功能，允许模型在回答前进行更深入�
 Mixture of Experts，一种模型架构，通过路由机制动态激活部分参数，实现大规模模型的高效推理。
 
 **Structured Outputs（结构化输出）**
-OpenAI等平台提供的功能，确保模型输出严格符合指定的JSON Schema，无需后处理验证。
+OpenAI 等平台提供的功能，确保模型输出严格符合指定的 JSON Schema，无需后处理验证。
 
 ---
 

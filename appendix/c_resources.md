@@ -7,7 +7,7 @@
 ### C.1.1 OpenAI
 
 **[Prompt Engineering Guide](https://developers.openai.com/api/docs/guides/prompt-engineering)**
-OpenAI官方提示词工程指南，包含最佳实践和技巧，非常务实。
+OpenAI 官方提示词工程指南，包含最佳实践和技巧，非常务实。
 
 **[Prompting Best Practices](https://developers.openai.com/api/docs/guides/prompt-engineering)**
 GPT 系列模型的提示词使用最佳实践。
@@ -26,7 +26,7 @@ GPT 系列模型的提示词使用最佳实践。
 ### C.1.3 Google
 
 **[Gemini Prompting Guide](https://ai.google.dev/gemini-api/docs/prompting-strategies)**
-Gemini模型的提示词设计指南，关注于长上下文和多模态输入的技巧。
+Gemini 模型的提示词设计指南，关注于长上下文和多模态输入的技巧。
 
 ## C.2 核心参考文献与研究论文
 
@@ -45,7 +45,7 @@ Sahoo et al., 2024 - 全面的提示词工程技术综述，涵盖分类体系�
 Chen et al., 2023 - 一篇全面的提示词工程综述，涵盖基础和高级提示技术、多模态提示、安全性与评估机制。
 
 **[The Prompt Report: A Systematic Survey of Prompt Engineering Techniques](https://arxiv.org/abs/2406.06608)**
-Schulhoff et al., 2024 - 迄今最全面的提示词工程综述：58种LLM技术、40种多模态技术、33个标准术语。
+Schulhoff et al., 2024 - 迄今最全面的提示词工程综述：58 种 LLM 技术、40 种多模态技术、33 个标准术语。
 
 ### C.2.2 推理与思维链
 
@@ -79,10 +79,10 @@ Lewis et al., 2020 - RAG 原始论文。
 
 **[LangChain](https://github.com/langchain-ai/langchain)**
 本书多次提及，目前应用最广的 LLM 开发框架，提供了丰富的工具链与 Pipeline 抽象。
-特点：提示词模板管理、链式调用、Agent构建、丰富的集成。
+特点：提示词模板管理、链式调用、Agent 构建、丰富的集成。
 
 **[LlamaIndex](https://github.com/run-llama/llama_index)**
-专注于数据接入和RAG的框架。
+专注于数据接入和 RAG 的框架。
 特点：多种数据源连接器、灵活的索引结构、查询引擎。
 
 **[DSPy](https://github.com/stanfordnlp/dspy)**
@@ -90,10 +90,10 @@ Lewis et al., 2020 - RAG 原始论文。
 
 **[AutoGen](https://github.com/microsoft/autogen)**
 微软的多智能体协作框架。
-特点：Agent对话协作、人机协作、代码执行。
+特点：Agent 对话协作、人机协作、代码执行。
 
 **[CrewAI](https://github.com/crewAIInc/crewAI)**
-轻量级的Agent团队协作框架。
+轻量级的 Agent 团队协作框架。
 
 ### C.3.2 测试与评测工具
 
@@ -102,10 +102,10 @@ Lewis et al., 2020 - RAG 原始论文。
 
 **[PromptLayer](https://promptlayer.com/)**
 提示词版本控制和监控平台。
-功能：API调用日志、提示词版本管理、性能分析。
+功能：API 调用日志、提示词版本管理、性能分析。
 
 **[LangSmith](https://www.langchain.com/langsmith/observability)**
-LangChain官方的调试和监控工具。
+LangChain 官方的调试和监控工具。
 
 ### C.3.3 向量数据库
 
@@ -120,27 +120,27 @@ LangChain官方的调试和监控工具。
 社区维护的提示词工程学习资源大列表。
 
 **[awesome-chatgpt-prompts](https://github.com/f/prompts.chat)**
-精选的ChatGPT提示词集合。
+精选的 ChatGPT 提示词集合。
 
 ## C.4 实用平台与测试工具
 
 ### C.4.1 提示词测试
 
 **[OpenAI Playground](https://platform.openai.com/playground)**
-OpenAI官方的交互式测试环境。
+OpenAI 官方的交互式测试环境。
 
 **[Anthropic Console](https://platform.claude.com/)**
-Claude的测试控制台。
+Claude 的测试控制台。
 
 **[Google AI Studio](https://aistudio.google.com/)**
-Google提供的多模态提示词开发与API测试平台。
+Google 提供的多模态提示词开发与 API 测试平台。
 
-### C.4.2 Token计算
+### C.4.2 Token 计算
 
 **[OpenAI Tokenizer](https://platform.openai.com/tokenizer)**
-可视化Token分词工具。
+可视化 Token 分词工具。
 
-**tiktoken (Python库)**
+**tiktoken (Python 库)**
 ```python
 # 若未安装，先执行：pip install tiktoken
 import tiktoken
@@ -153,7 +153,7 @@ print(tokens)
 ### C.4.3 提示词优化
 
 **[PromptPerfect](https://promptperfect.jina.ai/)**
-AI驱动的提示词优化工具。
+AI 驱动的提示词优化工具。
 
 **Prompt Generator**
 各种在线的提示词生成器工具。
@@ -163,7 +163,7 @@ AI驱动的提示词优化工具。
 ### C.5.1 在线课程
 
 **DeepLearning.AI - ChatGPT Prompt Engineering for Developers**
-由OpenAI和DeepLearning.AI联合推出的免费课程。
+由 OpenAI 和 DeepLearning.AI 联合推出的免费课程。
 
 **[Prompt Engineering Guide (DAIR.AI)](https://www.promptingguide.ai/)**
 全面的提示词工程学习指南，涵盖各种技术。
@@ -177,9 +177,9 @@ AI驱动的提示词优化工具。
 提示词工程社区，经验分享和讨论。
 
 **Discord - LangChain**
-LangChain官方Discord，活跃的开发者社区。
+LangChain 官方 Discord，活跃的开发者社区。
 
-### C.5.3 数据集与Benchmark
+### C.5.3 数据集与 Benchmark
 
 **MMLU (Massive Multitask Language Understanding)**: 评估模型多任务理解能力的基准数据集。
 **HumanEval**: 代码生成能力评估数据集。
@@ -198,10 +198,10 @@ LangChain官方Discord，活跃的开发者社区。
 
 **知名人物:**
 - @OpenAI, @AnthropicAI, @GoogleAI
-- @omarsar0 (DAIR.AI创始人)
+- @omarsar0 (DAIR.AI 创始人)
 - @lilianweng (前 OpenAI 研究员，Thinking Machines Lab 联合创始人)
 
-**YouTube频道:**
+**YouTube 频道:**
 - Andrej Karpathy
 - Two Minute Papers
 - AI Explained
@@ -211,7 +211,7 @@ LangChain官方Discord，活跃的开发者社区。
 ## 使用建议
 
 1. **从官方文档开始**：打下扎实基础
-2. **动手实践**：使用Playground测试想法
+2. **动手实践**：使用 Playground 测试想法
 3. **参与社区**：学习他人经验
 4. **关注前沿**：跟踪最新研究和技术
 5. **构建项目**：在实际应用中深化理解

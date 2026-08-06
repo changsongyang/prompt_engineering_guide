@@ -30,7 +30,7 @@
 
 | 提供方 | 当前维护口径 | 权威入口 | 编辑要求 |
 | --- | --- | --- | --- |
-| Google | Gemini 3.x、实时多模态与 Deep Think 以 Google AI 文档为准。当前模型页将 `gemini-3.6-flash`（最新）与 `gemini-3.5-flash` 同列为 Stable，将 `gemini-3.1-pro-preview` 标为 Preview；生产默认优先固定 Stable model ID，Preview 只用于接受预览变动的评测。 | [Gemini models](https://ai.google.dev/gemini-api/docs/models), [Gemini API release notes](https://ai.google.dev/gemini-api/docs/changelog) | 同一书内只使用官方命名；不把 `latest` 别名或 Preview 当作固定生产快照，升级前记录精确 ID 并重跑评测。 |
+| Google | Gemini 3.x、实时多模态与 Deep Think 以 Google AI 文档为准。当前模型页将 `gemini-3.6-flash`（最新，1,048,576 输入 / 65,536 输出 token）与 `gemini-3.5-flash`（同样限制）同列为 Stable，将 `gemini-3.1-pro-preview` 标为 Preview；生产默认优先固定 Stable model ID，Preview 只用于接受预览变动的评测。 | [Gemini models](https://ai.google.dev/gemini-api/docs/models), [Gemini API release notes](https://ai.google.dev/gemini-api/docs/changelog) | 同一书内只使用官方命名；不把 `latest` 别名或 Preview 当作固定生产快照，升级前记录精确 ID 并重跑评测。 |
 
 ## 其他快变事实
 
